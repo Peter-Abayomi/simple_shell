@@ -194,5 +194,5 @@ $ unsetenv NAME
 $ echo $NAME
 
 $
-## Authors & Copyrights
+## Authors
 Peter Abayomi
